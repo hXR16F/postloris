@@ -25,7 +25,10 @@ Examples: python3 postloris.py http://localhost/login.php 25 email password
 ```
 
 * In **url**, you need to specify address where POST requests are parsed.
-* In **threads**, you need to specify an amount of threads used by script.
-* In **fields**, you need to specify name of field (email/password/username/login etc.).
+* In **threads** - an amount of threads used by script.
+* In **fields** - name of field (email/password/username/login etc.).
 
 ![Screenshot_2](https://user-images.githubusercontent.com/48186982/63627895-fccfe880-c609-11e9-8feb-3059983b9e56.png)
+
+# Using
+To run GUI version on Windows you need to have installed [AutoIt3](https://www.autoitscript.com/site/) and [Python3](https://www.python.org) as well.
