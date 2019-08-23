@@ -31,4 +31,5 @@ Examples: python3 postloris.py http://localhost/login.php 25 email password
 ![Screenshot_2](https://user-images.githubusercontent.com/48186982/63627895-fccfe880-c609-11e9-8feb-3059983b9e56.png)
 
 # Using
-To run GUI version on Windows you need to have installed [AutoIt3](https://www.autoitscript.com/site/) and [Python3](https://www.python.org) as well.
+[Python3](https://www.python.org) is required to run.
+To run GUI version on Windows you need to have installed [AutoIt3](https://www.autoitscript.com/site/).
