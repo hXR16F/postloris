@@ -1,7 +1,7 @@
 <p align="center">
 	<b>postloris</b>
 	<br>
-	<i>An HTTP POST spam tool. Random values, random User-Agent.</i>
+	<i>An HTTP POST spam tool. Random values & User-Agent.</i>
 	<br><br><br>
 	<img alt="Sreenshot_1" src="https://user-images.githubusercontent.com/48186982/63628062-c9da2480-c60a-11e9-9d71-e6764d500a15.png">
 </p>
