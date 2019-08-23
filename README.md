@@ -31,3 +31,6 @@ Examples: python3 postloris.py http://localhost/login.php 25 email password
 * In **fields** - name of field (email/password/username/login etc.).
 
 ![Screenshot_2](https://user-images.githubusercontent.com/48186982/63627895-fccfe880-c609-11e9-8feb-3059983b9e56.png)
+
+# Results
+![Screenshot_4](https://user-images.githubusercontent.com/48186982/63628653-ef1c6200-c60d-11e9-9d7a-dc29b4df9865.png)
