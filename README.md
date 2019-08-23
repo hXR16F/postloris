@@ -6,7 +6,9 @@
 	<img alt="Sreenshot_1" src="https://user-images.githubusercontent.com/48186982/63628062-c9da2480-c60a-11e9-9d71-e6764d500a15.png">
 </p>
 
-# Syntax
+# Usage
+[Python3](https://www.python.org) is required to run.
+To run GUI version on Windows you need to have installed [AutoIt3](https://www.autoitscript.com/site/).
 ```
 $ python3 postloris.py
                  _   _            _
@@ -29,7 +31,3 @@ Examples: python3 postloris.py http://localhost/login.php 25 email password
 * In **fields** - name of field (email/password/username/login etc.).
 
 ![Screenshot_2](https://user-images.githubusercontent.com/48186982/63627895-fccfe880-c609-11e9-8feb-3059983b9e56.png)
-
-# Using
-[Python3](https://www.python.org) is required to run.
-To run GUI version on Windows you need to have installed [AutoIt3](https://www.autoitscript.com/site/).
