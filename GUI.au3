@@ -12,7 +12,7 @@
 #include <StaticConstants.au3>
 #include <WindowsConstants.au3>
 #Region ### START Koda GUI section ###
-$Form1 = GUICreate("Form1", 343, 255, 373, 203)
+$Postloris = GUICreate("Postloris GUI", 343, 255, 373, 203)
 $URL = GUICtrlCreateLabel("Target:", 8, 8, 38, 17)
 $Input1 = GUICtrlCreateInput("http://localhost/login.php", 16, 28, 311, 21)
 $Threads = GUICtrlCreateLabel("Threads:", 8, 58, 46, 17)
@@ -25,8 +25,9 @@ $Input4 = GUICtrlCreateInput("", 98, 138, 121, 21)
 $Input5 = GUICtrlCreateInput("", 98, 168, 121, 21)
 $Input6 = GUICtrlCreateInput("", 98, 198, 121, 21)
 $Button1 = GUICtrlCreateButton("Check", 252, 6, 75, 19)
+GUICtrlSetState(-1, $GUI_DISABLE)
 $Button2 = GUICtrlCreateButton("Attack", 228, 188, 105, 33)
-$StatusBar1 = _GUICtrlStatusBar_Create($Form1)
+$StatusBar1 = _GUICtrlStatusBar_Create($Postloris)
 Dim $StatusBar1_PartsWidth[1] = [-1]
 _GUICtrlStatusBar_SetParts($StatusBar1, $StatusBar1_PartsWidth)
 _GUICtrlStatusBar_SetText($StatusBar1, @TAB & "Programmed by hXR16F", 0)
