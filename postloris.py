@@ -52,10 +52,10 @@ if len(sys.argv)==1:
 	
 url = sys.argv[1]
 try:
-    r = requests.get(url, timeout=3)
+    r = requests.get(url)
     r.raise_for_status()
 except:
-	quit()
+	print('Cannot check URL!')
 	
 if len(sys.argv)==8:
 	fields = [sys.argv[3], sys.argv[4], sys.argv[5], sys.argv[6], sys.argv[7]]
