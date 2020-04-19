@@ -36,5 +36,4 @@ Examples: python3 postloris.py http://localhost/login.php 25 email password
 ![Screenshot_4](https://user-images.githubusercontent.com/48186982/63628653-ef1c6200-c60d-11e9-9d7a-dc29b4df9865.png)
 
 # Donate
-If you support my work or like my projects, you can donate me some money. Thank you 💙\
-BTC: `1GZRqMvfAhsHbWAJUKf9EruBPNKqwGAPFU`
+If you support my work or like my projects, [you can donate me some money](https://github.com/hXR16F/donate/blob/master/README.md). Thank you 💙
